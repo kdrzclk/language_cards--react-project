@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/language_cards--react-project/static/css/main.073c9b0a.css",
-    "main.js": "/language_cards--react-project/static/js/main.034265b7.js",
+    "main.css": "/language_cards--react-project/static/css/main.a5fb8d2a.css",
+    "main.js": "/language_cards--react-project/static/js/main.9fad22d4.js",
+    "static/media/php.png": "/language_cards--react-project/static/media/php.c767c5711b90ad735bbf.png",
+    "static/media/python.png": "/language_cards--react-project/static/media/python.40f1d1b14bc2113b7b05.png",
+    "static/media/go.png": "/language_cards--react-project/static/media/go.a0b3b49ab90e11213e6d.png",
+    "static/media/css.png": "/language_cards--react-project/static/media/css.616d011c7fdb34d35b95.png",
+    "static/media/javascript.png": "/language_cards--react-project/static/media/javascript.7f8751632b42a9932c15.png",
+    "static/media/react.svg": "/language_cards--react-project/static/media/react.7b78f5c3c3acf6dd7722fd9c2f83c963.svg",
+    "static/media/java.png": "/language_cards--react-project/static/media/java.a507ef793e957ee9b476.png",
+    "static/media/cpp.png": "/language_cards--react-project/static/media/cpp.c0a0d2fd9fd3519dbdce.png",
     "index.html": "/language_cards--react-project/index.html",
-    "main.073c9b0a.css.map": "/language_cards--react-project/static/css/main.073c9b0a.css.map",
-    "main.034265b7.js.map": "/language_cards--react-project/static/js/main.034265b7.js.map"
+    "main.a5fb8d2a.css.map": "/language_cards--react-project/static/css/main.a5fb8d2a.css.map",
+    "main.9fad22d4.js.map": "/language_cards--react-project/static/js/main.9fad22d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.034265b7.js"
+    "static/css/main.a5fb8d2a.css",
+    "static/js/main.9fad22d4.js"
   ]
 }
