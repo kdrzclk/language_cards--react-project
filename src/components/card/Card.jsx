@@ -1,4 +1,5 @@
 import { useState } from "react";
+import "./Card.css";
 
 const Card = ({ cardName, cardImg, cardOptions }) => {
   const [appear, setappear] = useState(true);
@@ -10,8 +11,8 @@ const Card = ({ cardName, cardImg, cardOptions }) => {
   return (
     <div className="card">
       {appear ? (
-        <div className="card-img" onClick={appearContent}>
-          <img src={cardImg} alt={cardName} />
+        <div className="card-body" onClick={appearContent}>
+          <img className="card-img" src={cardImg} alt={cardName} />
           <h5 className="card-title">{cardName}</h5>
         </div>
       ) : (
